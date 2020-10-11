@@ -1,4 +1,4 @@
-name = {"Johny" : 'Stone',"Max": "Johson"}
+name = {"Berk" : 'Tas',"Eren": "Danisman"}
 def registry(incoming_name, incoming_surname):
     name[incoming_name] = incoming_surname
     print(("""Name {} Surname {} you registered""").format(incoming_name,incoming_surname))
